@@ -62,7 +62,7 @@ const Navbar = () => {
               rel="noopener noreferrer"
               href="mailto:Hammadaman686@gmail.com?subject=Hiring%20Request&body=Hello%20Hammad,"
             >
-              <button className="font-medium bg-black text-white shadow-lg px-3 py-1 rounded-2xl">
+              <button className="font-medium bg-black text-white shadow-black shadow-md px-3 py-1 rounded-2xl">
                 Hire Me
               </button>
             </a>

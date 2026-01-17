@@ -44,7 +44,7 @@ const Contact = () => {
           onSubmit={handleSubmit(onSubmit)}
           data-aos="zoom-in"
           data-aos-delay="200"
-          className="max-w-xl mx-auto bg-white p-6 rounded-lg shadow-md"
+          className="max-w-xl mx-auto bg-base-200 p-6 rounded-lg shadow-md"
         >
 
           <div className="mb-4">

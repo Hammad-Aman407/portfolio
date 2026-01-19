@@ -6,7 +6,7 @@ const Education = () => {
         {
             year: "2021-2025",
             degree: "BS Software Engineering",
-            institute: "National University of Modern Lanugages (NUML), Islamabad",
+            institute: "National University of Modern Languages (NUML), Islamabad",
             grade: "3.60/4.0 CGPA",
         },
         {
